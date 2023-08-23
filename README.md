@@ -16,3 +16,10 @@ A equipe do trabalho foi composta por quatro integrantes:
 # MISC.
 
 Também aproveito para commitar nesse repositório arquivos contendo informações que adquiri sobre Java suficientes para desenvolver este trabalho. São os arquivos **1_JAVA_BASICO.md**, **2_JAVA_INTERMEDIARIO.md** e **3_JAVA_AVANCADO.md**.
+
+# Requirements
+
+- XChart 3.8.4
+- JTable
+
+Para instalar o XChart, basta colocar esse projeto inteiro na pasta lib. Download: https://github.com/knowm/XChart
