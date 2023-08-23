@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"Controller","l":"BotaoArquivo"},{"p":"Model","l":"Calculos"},{"p":"<Unnamed>","l":"Main"},{"p":"View","l":"MostraJTable"},{"p":"View","l":"MostrarChart"},{"p":"Controller","l":"Tabela"}];updateSearchResults();
