@@ -22,4 +22,4 @@ Também aproveito para commitar nesse repositório arquivos contendo informaçõ
 - XChart 3.8.4
 - JTable
 
-Para instalar o XChart, basta colocar esse projeto inteiro na pasta lib. Download: https://github.com/knowm/XChart
+Para instalar o XChart, basta colocar o conteúdo inteiro dele na pasta "lib/xchart-3.8.4" (ou a versão que foi lançada). Download: https://github.com/knowm/XChart. A pasta lib precisa ser criada na raíz desse repositório aqui.
